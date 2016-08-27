@@ -1,0 +1,9 @@
+{
+  "name": "my-personal-nodejs-web-app",
+  "version": "0.0.0",
+  "description": "MyPersonalNodejsWebApp",
+  "main": "server.js",
+  "author": {
+    "name": "Anil.Gangadharaiah"
+  }
+}
